@@ -1,4 +1,6 @@
-Data Sayuran App
+**`Data Sayuran App`**
+
+
 Data Sayuran App adalah sebuah aplikasi berbasis GUI (Graphical User Interface) yang digunakan untuk melakukan analisis data produksi sayuran. Aplikasi ini dapat membaca data dari file Excel, menampilkan data dalam bentuk tabel, menyimpan data ke dalam database SQLite, serta melakukan analisis statistik dan visualisasi data.
 
 Instalasi
