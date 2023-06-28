@@ -7,8 +7,9 @@ Untuk menjalankan aplikasi ini, Anda perlu menginstal beberapa library Python ya
 Buka terminal atau command prompt.
 Pastikan Anda berada di direktori kerja yang diinginkan.
 Jalankan perintah berikut untuk menginstal library yang diperlukan:
-Copy code
+
 pip install openpyxl pandas matplotlib pandastable sqlite3
+
 Setelah instalasi selesai, Anda siap menjalankan aplikasi.
 Cara Menjalankan Aplikasi
 Untuk menjalankan aplikasi Data Sayuran App, ikuti langkah-langkah berikut:
@@ -16,8 +17,8 @@ Untuk menjalankan aplikasi Data Sayuran App, ikuti langkah-langkah berikut:
 Buka terminal atau command prompt.
 Pindah ke direktori tempat Anda menyimpan file kode program.
 Jalankan perintah berikut:
-Copy code
 python nama_file.py
+
 Pastikan Anda mengganti "nama_file.py" dengan nama sesuai dengan file kode program yang Anda simpan.
 Penggunaan Aplikasi
 Setelah menjalankan aplikasi, Anda akan melihat tampilan GUI Data Sayuran App. Aplikasi memiliki beberapa fitur utama:
@@ -43,4 +44,5 @@ Kontak
 Jika Anda memiliki pertanyaan atau masukan terkait aplikasi ini, silakan hubungi:
 
 Nama: [Bryan]
+
 Email: [leonardobryan32@gmail.com]
